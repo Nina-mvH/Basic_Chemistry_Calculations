@@ -1,16 +1,3 @@
-#Nina van Hoorn
-
-'''
-As a student who is interested in both chemistry and computer science, I think it would be interesting to try
-making a program that can perform some very basic chemistry computations. I believe the program should begin
-by asking the user what kind of calculation they want to complete (they would be given three options and could
-select one). They could choose to a) find the molar mass of a compound, b) find the number of moles in a compound
-with a known mass, or c) find the mass of a compound with a known number of moles. Based on which option they chose,
-they would be asked to fill out any necessary information and then the program would complete the computations and
-print the answer. The necessary information would include the compound (which elements and quantity of each element),
-and potentially the mass of a sample or the known number of moles in a sample.
-'''
-
 
 def main():
 	print()
